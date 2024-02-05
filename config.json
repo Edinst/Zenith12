@@ -41,8 +41,8 @@
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6LdLOGcpAAAAAAuyoruaj31sbzp7yo-U-B5MMn3o",
+			"secretKey": "6LdLOGcpAAAAAFA791yDR82AsE2PDM4TgAhXcRY-"
 		}
 	},
 	"dashBoard": {
@@ -51,7 +51,7 @@
 		"port": 3001
 	},
 	"serverUptime": {
-		"enable": false,
+		"enable": true,
 		"port": 3001,
 		"socket": {
 			"enable": true,
