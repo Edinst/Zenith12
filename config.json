@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "ediide909@gmail.com",
+		"password": "zenithback10877",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -22,8 +22,8 @@
 		"whiteListIds": [],
 		"notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
 	},
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "miku remake | Zenith account",
+	"prefix": "#",
 	"database": {
 		"type": "sqlite",
 		"uriMongodb": "",
@@ -34,10 +34,10 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "edivir34@gmail.com",
+			"clientId": "572023106258-3h7mb5sahh85p92tpq988fv4q2i2obmu.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04tWpg_UkQpDeCgYIARAAGAQSNwF-L9IriNnVGQnwtqdZrqXsHLeCKMZ3KCoC6HQD6nDGlr2BAsUo0eWLrlF0avAyqUXFx3ipH98",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
