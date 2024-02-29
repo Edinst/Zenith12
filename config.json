@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "ediide909@gmail.com",
-		"password": "zenithback10877",
+		"email": "ljtc2ml@txcct.com",
+		"password": "61555872531277",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -22,8 +22,8 @@
 		"whiteListIds": [],
 		"notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
 	},
-	"nickNameBot": "miku remake | Zenith account",
-	"prefix": "#",
+	"nickNameBot": "naumy kaze v2",
+	"prefix": ".",
 	"database": {
 		"type": "sqlite",
 		"uriMongodb": "",
