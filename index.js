@@ -36,9 +36,3 @@ function startProject() {
 }
 
 startProject();
-
-// Infinity loop
-while (true) {
-    console.log("Hello, world!");
-    setTimeout(() => {}, 1000);
-}
